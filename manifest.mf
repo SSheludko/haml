@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.mephi.haml
+OpenIDE-Module-Layer: org/mephi/haml/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/mephi/haml/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
