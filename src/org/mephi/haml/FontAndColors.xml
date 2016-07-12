@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
-    <fontcolor name="number" foreColor="red" default="default"/>
-    <fontcolor name="text" foreColor="blue" default="default"/>
+    <fontcolor name="number" default="number"/>
+    <fontcolor name="error" default="error"/>
+    <fontcolor name="keyword" default="keyword" />
+    <fontcolor name="text" default="text"/>
     <fontcolor name="separator" default="separator"/>
+    <fontcolor name="tag" foreColor="blue" default="default"/>
+    <fontcolor name="screening" default="default"/>
+    <fontcolor name="class" foreColor="blue" default="class"/>
+    <fontcolor name="id" foreColor="8b00ff" default="default"/>
+    <fontcolor name="string" foreColor="008000" default="string"/>
+    <fontcolor name="variable" foreColor="8b00ff" default="variable"/>
 </fontscolors>

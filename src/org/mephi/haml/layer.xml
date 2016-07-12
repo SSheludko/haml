@@ -3,7 +3,7 @@
 <filesystem>
     <folder name="Templates">
         <folder name="Haml">
-            <file name="file.haml" url="HamlTemplate.vala">
+            <file name="file.haml" url="HamlTemplate.haml">
                 <attr name="displayName" bundlevalue="org.mephi.haml.Bundle#Templates/Haml/HamlTemplate.haml"/>
                 <attr name="template" boolvalue="true"/>
             </file>
@@ -27,6 +27,13 @@
 			</folder>
                     </folder>
 		</folder>
+            </folder>
+	</folder>
+    </folder>
+    <folder name="OptionsDialog">
+	<folder name="PreviewExamples">
+            <folder name="text">
+		<file name="x-haml" url="HamlExample.haml"/>
             </folder>
 	</folder>
     </folder>
